@@ -1,0 +1,9 @@
+The files allocated corrrespond to the keras tunner function application for the network architecture definition (number of layers and 
+perceptrons), as well as the the posterior cross validations applied. The last ones had the purpose to obtain the exact weights and biases 
+for the network. 
+
+The "optimizaton_red-z.py" files correspond to the network architecture defintion, z is substitued by the number of reduced components
+that are used in each case. 
+
+In the other hand, the "san_diego_cross_validation_redz.py" are the files used for the cross validations and fine hyperparatmeter
+tunning, again, z is substitued by the number of reduced components of each model. 
