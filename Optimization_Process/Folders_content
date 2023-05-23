@@ -1,0 +1,7 @@
+The PCA_optimization folder contains the python files used for the optimizaton of the PCA-like-autoencoders applied in the study, this includes
+the files used for network definition, as well as the realized cross validations. Inside the folder the "Files_description" file provides 
+clearer descriptions of the codes.
+
+The TAE_optimization folder contains the python files used for the optimizaton of the time-lag-autoencoders applied in the study, this includes
+the files used for network definition, as well as the realized cross validations. Inside the folder the "Files_description" file provides 
+clearer descriptions of the codes.
