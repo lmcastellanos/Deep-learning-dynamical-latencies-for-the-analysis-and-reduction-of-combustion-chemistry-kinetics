@@ -1,0 +1,6 @@
+Each folder "Latent_Space_z" containes the correlation analysis for each z-size manifold. Inside each folder, it is possible to find the
+jupyter notebook "correlation_analysis" which contains the principal outcomes. Additionally, it is possible to find the data files from 
+the studied ignition cases. The folders with the 'k_fold_best..." names, are the Tensorflow models used for each TAE. 
+
+Particularly, in the folder "Latent_Space_2" is it possible to find the "Manifold_comparion" jupyter notebook, which is a comparison of the 
+latencies for z-size 2 model, in which the latencies for different ignition cases are observed. 
