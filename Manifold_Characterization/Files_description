@@ -1,0 +1,8 @@
+These folders contain the coding files used for the study of the TAE latencies; in the folder "TAE_Manifold_Correlation_analysis", it is possible
+to find the files regarding the Kendall Tau B correlation indexes for each manifold size that is studied, leading to the determination of the 
+chemical carriers. More details of the files arrangement
+is available in the respective "File_description" (inside the folder).
+
+In the case of the folder "TAE_Manifolds_permutation_importance", the files related to the permutation importance test are allocated, this 
+kind of analysis allows to determinate influences of the chemical carriers into other chemical varaibles. As in all the folders in this 
+repository, the respective "File description" (inside the folder) provides more details. 
