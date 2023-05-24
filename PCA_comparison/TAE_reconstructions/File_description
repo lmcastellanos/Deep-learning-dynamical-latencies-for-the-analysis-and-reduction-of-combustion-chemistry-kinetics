@@ -1,2 +1,4 @@
 The file "TAE_reconstructions" has the code used for some chemical species reconstructions, while the .csv files are related to the simulation data of the 
 ignition cases under study. 
+
+The folder "k_fold_best_model_test2" contains the TAE model with manifold size 2.
