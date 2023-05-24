@@ -1,1 +1,4 @@
+The file "PCA_reconstructions" has the code used for some chemical species reconstructions, while the .csv files are related to the simulation data of the 
+ignition cases under study. 
 
+The folder "k_fold_best_model_PCA_test2" contains the PCA model with manifold size 2. 
