@@ -1,4 +1,4 @@
-The file "PCA_MAE_bar_graphs" contains the code used to construct the heat maps related to the PCA models reconstruction, the folders "k_fold_best_model_PCA_testz"
+The file "PCA_MAE_bar_graphs" contains the code used to construct the bar graphs related to the PCA models reconstruction, the folders "k_fold_best_model_PCA_testz"
 contain the z-size models for the PCA-like Autoencoders. 
 
 The data files included are the ones from the isobaric batch reactors from the tested ignition cases. 
