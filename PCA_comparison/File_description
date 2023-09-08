@@ -2,10 +2,10 @@ The folders are organized as follows:
 
 "MAE_graph_bars" contains the code, models, and data for the analysis and visualization of the Mean Absolute Error (MAE) graphs for each of the ignition cases under study. 
 
-"PCA_MAE_heat_maps"contains the data and models used for the construction of the PCA heat maps of the MAE distribution in accordance to manifold size and chemical specie. 
+"PCA_MAE_graphs" contains the data and models used for the construction of the PCA bar graphs of the MAE distribution in accordance to manifold size and chemical specie. 
 
-"TAE_MAE_heat_maps"contains the data and models used for the construction of the TAE heat maps of the MAE distribution in accordance to manifold size and chemical specie.
+"TAE_MAE_graphs" contains the data and models used for the construction of the TAE bar graphs of the MAE distribution in accordance to manifold size and chemical specie.
 
 "TAE_reconstructions" contains the scripts related to the chemical species reconstruction using the TAE model z=2. 
 
-"PCA_reconstrctions" contains the scripts related to the chemical species reconstruction using the PCA model z=2.
+"PCA_reconstructions" contains the scripts related to the chemical species reconstruction using the PCA model z=2.
