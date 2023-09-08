@@ -1,4 +1,4 @@
-# Time-lag-AE-Chemistry-Reduction
+# Time-lag-AE-Chemistry-Analysis-Reduction
 Script files for the analysis of TAE Applications in combustion chemistry kinetics analysis and reduction. 
 
 The "optimization_process" folder contains the codes used for the hyperparameter tuning of all the models analyzed.
