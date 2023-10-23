@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10034264.svg)](https://doi.org/10.5281/zenodo.10034264)
 
+https://doi.org/10.5281/zenodo.10034264
+
 Script files for the analysis of TAE Applications in combustion chemistry kinetics analysis and reduction. 
 
 The "optimization_process" folder contains the codes used for the hyperparameter tuning of all the models analyzed.
