@@ -1,4 +1,4 @@
-# Time-lag-AE-Chemistry-Analysis-Reduction
+# Deep learning dynamical latencies for the analysis and reduction of combustion chemistry kinetics 
 
 [![DOI](https://sandbox.zenodo.org/badge/644297612.svg)](https://sandbox.zenodo.org/badge/latestdoi/644297612)
 
