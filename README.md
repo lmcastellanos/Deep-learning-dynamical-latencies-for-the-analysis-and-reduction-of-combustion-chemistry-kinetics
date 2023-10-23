@@ -1,6 +1,6 @@
 # Deep learning dynamical latencies for the analysis and reduction of combustion chemistry kinetics 
 
-[![DOI](https://sandbox.zenodo.org/badge/644297612.svg)](https://sandbox.zenodo.org/badge/latestdoi/644297612)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10034264.svg)](https://doi.org/10.5281/zenodo.10034264)
 
 Script files for the analysis of TAE Applications in combustion chemistry kinetics analysis and reduction. 
 
